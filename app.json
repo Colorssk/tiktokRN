@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "tiktokRN",
+    "slug": "tiktokRN",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
